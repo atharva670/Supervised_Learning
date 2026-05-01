@@ -1,0 +1,1 @@
+The code in Supervised_Learning.py is used to implement supervised learning  such as Linear Regression,Logistic Regression, Support Vector Machine,Decision Tree on 2 datasets given in this repository Placement.csv is used for Linear regression whereas train.csv is used for all other supervised learning models
